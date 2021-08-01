@@ -1,0 +1,2 @@
+1. First add chrome.exe as into path variable
+2.Use port 8989 as debugging port
